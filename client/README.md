@@ -1,5 +1,5 @@
 
-## Getting Started
+## Install packages
 
 ```bash
 npm install
@@ -13,7 +13,7 @@ bun install
 
 ---
 
-Run the deploy server: 
+## Run the deploy server: 
 
 ```bash
     npm run build
@@ -33,7 +33,7 @@ Run the deploy server:
 
 ---
 
-Run the development server:
+## Run the development server:
 
 ```bash
 npm run dev
